@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": "101",
+      "text": "change css styles",
+      "status": "in progress"
+    },
+    {
+      "id": "102",
+      "text": "bug fix on modal",
+      "status": "completed"
+    },
+    {
+      "id": "103",
+      "text": "add observer design pattern to model",
+      "status": "completed"
+    },
+    {
+      "id": "5386",
+      "text": "write classwork step by step by yourself",
+      "status": "completed"
+    },
+    {
+      "id": "1e7c",
+      "text": "add in git repo ",
+      "status": "in progress"
+    }
+  ]
+}
